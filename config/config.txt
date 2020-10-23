@@ -1,0 +1,2 @@
+camera_index:1
+game_over_score:3
