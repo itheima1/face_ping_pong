@@ -242,7 +242,7 @@ while True:
 ![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603345120673.png)
 
 ![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603344458979.png)
-![pingpong](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/pingpong-1603430049883.gif)
+![pingpong](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/pingpong.gif)
 
 
 
