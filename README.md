@@ -1,60 +1,8 @@
 # 作为一个程序猿，我是这样找回我的春天的...
 
-
-程序猿和程序媛朋友们，你们有脖子疼过吗？ 
-
-上个月我的脖子就开始偶尔作痛，我想每个人每个月都会有那么几天不舒服，脖子痛，肚子痛这不都是小毛病吗，过几天就好了。
-
-所以偶尔的疼痛根本就没有干扰到我用心写bug，可是我万万没想到，脖子痛的time.sleep()的时间越来越短，时不时的还**头晕目眩，眼睛昏花，小手发麻**。
+啊啊啊啊啊啊啊，一起开发回春神器
 
 
-
-亚里士多德说过，身体不舒服千万别去问百度,否则你会丧失继续活下去的信心！
-
-**我偏偏不信。**
-
-
-
-
-百度之后，感觉自己的症状就是眼压升高，弄不好年纪轻轻有失明的危险。
-
-
-
-赶紧挂个号去眼科看看吧。
-
-
-
-见到了资深的眼科医生，医生说根据他多年的经验，你的眼没事，去拍个颈椎的片子吧。 
-
-这个表你看看。自己对照一下级别。
-
-| 1级  | 抬头脖子痛                 |
-| ---- | -------------------------- |
-| 2级  | 背酸，僵硬                 |
-| 3级  | 容易落枕                   |
-| 4级  | 胳膊无力，容易麻木         |
-| 5级  | 走路发飘，容易跑偏         |
-| 6级  | 握笔不稳，字体变化         |
-| 7级  | 无法拿稳筷子               |
-| 8级  | 走路一脚深，一脚浅         |
-| 9级  | 大小便失禁，有一些难言之隐 |
-| 10级 | 瘫痪了，下不了床           |
-
-
-
-
-
-我好像是四级....（好像还有得救哎）
-
-瑟瑟发抖，有木有！！
-
-
-
-DR片子证实了医生的判断。
-
-![1603283640296.png](https://upload-images.jianshu.io/upload_images/4499731-1398b16f9addb248.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-# 作为一个程序猿，我是这样找回我的春天的...
 
 程序猿和程序媛朋友们，你们有脖子疼过吗？ 
 
@@ -94,19 +42,13 @@ DR片子证实了医生的判断。
 | 9级  | 大小便失禁，有一些难言之隐 |
 | 10级 | 瘫痪了，下不了床           |
 
-
-
-
-
 我好像是四级....（好像还有得救哎）
 
 瑟瑟发抖，有木有！！
 
+
+
 DR片子证实了医生的判断。
-
-![1603283640296.png](https://upload-images.jianshu.io/upload_images/4499731-fc16d45051c1a2ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
 
 
 
@@ -116,8 +58,7 @@ python语言入门 —> python语言应用实践 —> python 语言高阶编程 
 
 现在我直接从Python语言入门，一步跨越到了最终阶段。
 
-![1603284644104.png](https://upload-images.jianshu.io/upload_images/4499731-58ee849da07b0107.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603284644104.png) 
 
 医生看了片子之后，诡异一笑，你是个程序猿吧。
 
@@ -141,11 +82,11 @@ python语言入门 —> python语言应用实践 —> python 语言高阶编程 
 
 我是行动派，回到公司，我就在某平台上找到了羽毛球和游泳馆，并查询了详细价格。
 
-![1603284385041.png](https://upload-images.jianshu.io/upload_images/4499731-ed38be92dd1df579.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1603284385041](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603284385041-1603430049883.png)
 
-![1603284485648.png](https://upload-images.jianshu.io/upload_images/4499731-b45e5f9fadb2a9a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603284485648-1603430049883.png)
 
-![1603285239076.png](https://upload-images.jianshu.io/upload_images/4499731-375f47dd944ce57f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1603285239076](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603285239076-1603430049883.png)
 
 看了价格后。 我毅然的选择了，自己动手治自己的病，
 
@@ -154,22 +95,18 @@ python语言入门 —> python语言应用实践 —> python 语言高阶编程 
 
 
 颈椎病康复理疗器程序正式立项！
-![1603346421129.png](https://upload-images.jianshu.io/upload_images/4499731-10cab4c1b189bc64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603346421129.png)
 
 
 
 图像识别python稍微方便一点， 先把python给装上，双击下一步，一路双击老铁666，python就安装好了。
-![1603343437820.png](https://upload-images.jianshu.io/upload_images/4499731-2a827100ed908c47.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603343437820.png)
 
 opencv是个好用的图像识别的库，那装一下把，pip install opencv-python
 
-![1603343253440.png](https://upload-images.jianshu.io/upload_images/4499731-c759a31925e62dfb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603343253440.png)
 好了写个代码，打开摄像头,这样就能看到画了，嘻嘻我躲在摄像头的旁边。
 
 ```python
@@ -184,9 +121,8 @@ while(cap.isOpened()):
 cap.release()
 cv2.destoryAllWindows()
 ```
-![1603346806491.png](https://upload-images.jianshu.io/upload_images/4499731-07560e78fb70d290.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603346806491.png)
 
 第二步识别出来我的小脸，正好opencv带有人脸的特征文件
 
@@ -215,7 +151,7 @@ cv2.destoryAllWindows()
 
 一运行效果惨不忍睹，一方面是经常找不到我的脸，一方面是经常把不相干的东西当成脸识别出来。
 
-![1603293873394.png](https://upload-images.jianshu.io/upload_images/4499731-420d92984e61893d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1603293873394](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603293873394-1603430049883.png)
 
 
 
@@ -236,15 +172,14 @@ python tensorflow/examples/image_retraining/retrain.py \
     --how_many_training_steps=600 \
     --architecture mobilenet_2.0_224
 ```
-![1603294187741.png](https://upload-images.jianshu.io/upload_images/4499731-61ffbc5a3d9dbb7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603294187741.png)
 
 嗯，看训练趋势感觉效果还可以。测试一下吧。
 
 
-![1603295288791.png](https://upload-images.jianshu.io/upload_images/4499731-c6743357626e659a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603295288791.png)
 嗯，效果还行，很小的头都能识别出来了，你能看出来他俩是谁吗？
 
 
@@ -296,19 +231,18 @@ while True:
 
 这点代码有点多，那我抽取出来面向对象吧，再完善一点小细节。
 
-![1603349515763.png](https://upload-images.jianshu.io/upload_images/4499731-e9c90f16a2dafc40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![1603349515763](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603349515763-1603430049883.png)
 
 
 
 
 
 大功告成！
-![1603344458979.png](https://upload-images.jianshu.io/upload_images/4499731-c674f2e273c30cc6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![1603345120673.png](https://upload-images.jianshu.io/upload_images/4499731-3c9ce5fb6cd20a05.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603345120673.png)
 
-![pingpong.gif](https://upload-images.jianshu.io/upload_images/4499731-51354cbbb4a67fa8.gif?imageMogr2/auto-orient/strip)
+![1603284485648](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/1603344458979.png)
+![pingpong](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/pingpong-1603430049883.gif)
 
 
 
@@ -316,9 +250,13 @@ while True:
 
 
 
-另外想不想学opencv和python，自己动手把上面的东西写出来，快点击star关注本项目，或者请留下你的联系方式。
-
-等我们录好课程会联系你的！ 
 
 
- ![img](img/qrcode.ashx) 
+另外想不想学opencv和python，自己动手把上面的东西写出来， star本项目，或者请留下你的联系方式。
+
+等我们录好课程会联系你的！
+
+
+
+ ![img](https://raw.githubusercontent.com/itheima1/face_ping_pong/master/img/qrcode-1603430049883.ashx) 
+
